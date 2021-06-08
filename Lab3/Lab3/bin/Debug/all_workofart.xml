@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWorkOfArt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WorkOfArt>
+    <name>Витвір1</name>
+    <old>20</old>
+    <size>123-322-234</size>
+  </WorkOfArt>
+  <WorkOfArt>
+    <name>Витвір2</name>
+    <old>15</old>
+    <size>142-234-123</size>
+  </WorkOfArt>
+</ArrayOfWorkOfArt>

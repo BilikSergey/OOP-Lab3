@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFunds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Funds>
+    <name>Фонд3</name>
+    <addres>ВУЛИЦЯ-124</addres>
+  </Funds>
+  <Funds>
+    <name>Фонд2</name>
+    <addres>ШЕВЧЕНКО-432</addres>
+  </Funds>
+  <Funds>
+    <name>Фонд1</name>
+    <addres>ВУЛИЦЯ-321</addres>
+  </Funds>
+  <Funds>
+    <name>Фонд4</name>
+    <addres>ВУЛИЦЯ-32</addres>
+  </Funds>
+  <Funds>
+    <name>Фонд5</name>
+    <addres>ВУЛИЦЯ-5</addres>
+  </Funds>
+  <Funds>
+    <name>Фонд6</name>
+    <addres>ВУЛИЦЯ-12421</addres>
+  </Funds>
+</ArrayOfFunds>

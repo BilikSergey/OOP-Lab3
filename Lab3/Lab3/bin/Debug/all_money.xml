@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExhibit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Exhibit>
+    <money>12424</money>
+  </Exhibit>
+  <Exhibit>
+    <money>12344124</money>
+  </Exhibit>
+</ArrayOfExhibit>
